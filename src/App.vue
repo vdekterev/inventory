@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import InventoryList from "@/components/InventoryList.vue";
+import InventoryList from "@/components/inventory/InventoryList.vue";
 import SideBar from "@/components/SideBarSkeleton.vue";
 import Footer from "@/components/FooterSkeleton.vue";
 </script>
